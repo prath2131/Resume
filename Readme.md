@@ -11,4 +11,4 @@ Sections in the website:
 
 In then home section, I have enabled feature to download my CV from the website along with adding background image. The about seection includes my profile picture and basic personal details. Education qualification, projects and skills are listed in remaining section. I have also added footer with social media links. Javascript is used to fix the header even though there is change in section.
 
-done in 2023
+done in 2023 as part of the computing lab course in MTechR
